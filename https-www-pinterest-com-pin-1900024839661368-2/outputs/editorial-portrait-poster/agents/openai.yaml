@@ -1,0 +1,4 @@
+interface:
+  display_name: "留白·编辑式海报"
+  short_description: "为任意主题生成浅底限色、强标题、几何构图与克制印刷质感的原创海报"
+  default_prompt: "使用 $editorial-portrait-poster，为我给出的主题生成原创海报，保留这套配色、留白与字体气质。"
